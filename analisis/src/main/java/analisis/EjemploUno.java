@@ -19,7 +19,7 @@ public class EjemploUno {
         //Se busca la posicion inicial del continente africano
         String tag = "table 1";
         String tag1 = "americas";
-        String tag2 = "reporting country";
+        String tag2 = "dominican republic";
         
         int posicionInicial = texto.indexOf(tag);
         posicionInicial = texto.indexOf(tag1,posicionInicial);
